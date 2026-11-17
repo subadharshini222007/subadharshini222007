@@ -1,6 +1,6 @@
 # Hi, I'm Suba Dharshini B 👋
 
-### Artificial Intelligence and Machine Learning Student | Python Developer
+### Artificial Intelligence and Machine Learning Student | Aspiring Python Developer
 
 I'm a B.Sc. Artificial Intelligence and Machine Learning student interested in Python development, Artificial Intelligence, and Machine Learning.
 
